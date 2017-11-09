@@ -1,1 +1,2 @@
-# This is new Respository
+# This is java Respository
+*Solution.java* - main class
